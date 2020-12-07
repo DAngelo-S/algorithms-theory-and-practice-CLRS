@@ -1,4 +1,4 @@
-(English version bellow)
+(English version below)
 
 # Parte I - Fundamentos
  Apresentação à ideias fundamentais para análise de algorítmos.
@@ -45,7 +45,7 @@
  Introduction to probabilistic analysis, used to determine the runtime of an algorithm in which the runtime varies for inputs of different sizes or due to random choices within the algorithm (randomized algorithm).
 
 ## Appendices
- The necessary mathematical resourse to be able to read properly the book are in the appendices A, B, C and D.
+ The necessary mathematical resource to be able to properly read the book are in the appendices A, B, C and D.
 
  - A - Summation
  - B - Sets and etc.
